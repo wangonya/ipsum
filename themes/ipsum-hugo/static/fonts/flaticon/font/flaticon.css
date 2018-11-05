@@ -1,6 +1,6 @@
 	/*
   	Flaticon icon font: Flaticon
-  	Creation date: 22/05/2018 03:49
+  	Creation date: 05/11/2018 19:18
   	*/
 
 @font-face {
@@ -29,12 +29,16 @@ font-style: normal;
 margin-left: 20px;
 }
 
-.flaticon-bank:before { content: "\f100"; }
-.flaticon-dart:before { content: "\f101"; }
-.flaticon-career:before { content: "\f102"; }
-.flaticon-lightbulb:before { content: "\f103"; }
-.flaticon-pie-chart:before { content: "\f104"; }
-.flaticon-trophy:before { content: "\f105"; }
-.flaticon-money:before { content: "\f106"; }
-.flaticon-handshake:before { content: "\f107"; }
-.flaticon-presentation:before { content: "\f108"; }
+.flaticon-camera:before { content: "\f100"; }
+.flaticon-puzzle:before { content: "\f101"; }
+.flaticon-presentation:before { content: "\f102"; }
+.flaticon-presentation-1:before { content: "\f103"; }
+.flaticon-flow-chart:before { content: "\f104"; }
+.flaticon-globe:before { content: "\f105"; }
+.flaticon-pie-chart:before { content: "\f106"; }
+.flaticon-meeting:before { content: "\f107"; }
+.flaticon-lightbulb:before { content: "\f108"; }
+.flaticon-computer:before { content: "\f109"; }
+.flaticon-magazine:before { content: "\f10a"; }
+.flaticon-envelope:before { content: "\f10b"; }
+.flaticon-paper-plane:before { content: "\f10c"; }
