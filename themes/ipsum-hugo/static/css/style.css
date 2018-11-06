@@ -140,12 +140,12 @@ sup {
   top: -.5em; }
 
 a {
-  color: #4ECCA3;
+  color: #2576BC;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects; }
   a:hover {
-    color: #2ea07b;
+    color: #C33885;
     text-decoration: underline; }
 
 a:not([href]):not([tabindex]) {
@@ -7357,7 +7357,7 @@ h1, h2, h3, h4, h5,
     -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1); }
     .ftco-navbar-light.scrolled .nav-item.active > a {
-      color: #4ECCA3 !important; }
+      color: #2576bc !important; }
     @media (max-width: 991.98px) {
       .ftco-navbar-light.scrolled .navbar-nav {
         background: none;
@@ -8185,7 +8185,7 @@ textarea.form-control {
       width: 40px;
       height: 40px;
       border-radius: 50%;
-      background: #9de3cc;
+      background: #ffb6c1;
       z-index: -1; }
   .block-6 .media-body .heading {
     font-size: 20px; }
