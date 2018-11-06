@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="302d389a-bf51-4ece-9a4e-f65d74166c8f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/content/about/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/ipsum-hugo/layouts/about/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/about/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/ipsum-hugo/layouts/_default/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ipsum-hugo/layouts/_default/single.html" afterDir="false" />
-    </list>
+    <list default="true" id="302d389a-bf51-4ece-9a4e-f65d74166c8f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -40,20 +34,20 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="50" />
-          <entry key="html" value="554" />
+          <entry key="html" value="561" />
           <entry key="md" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="50" />
-          <entry key="HTML" value="554" />
+          <entry key="HTML" value="561" />
           <entry key="Markdown" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -71,23 +65,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/posts/my-first-post.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="30">
-                <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-end-line="3" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/ipsum-hugo/layouts/about/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="37" column="59" selection-start-line="37" selection-start-column="59" selection-end-line="37" selection-end-column="59" />
+            <state relative-caret-position="150">
+              <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
               <folding>
                 <element signature="n#style#0;n#section#0;n#!!top" expanded="true" />
               </folding>
@@ -279,12 +261,12 @@
       <option name="presentableId" value="Default" />
       <updated>1541430415635</updated>
       <workItem from="1541430417642" duration="8827000" />
-      <workItem from="1541499799790" duration="5153000" />
+      <workItem from="1541499799790" duration="5487000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13982000" />
+    <option name="totallyTimeSpent" value="14316000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -435,8 +417,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/ipsum-hugo/layouts/about/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="59" selection-start-line="37" selection-start-column="59" selection-end-line="37" selection-end-column="59" />
+        <state relative-caret-position="150">
+          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
           <folding>
             <element signature="n#style#0;n#section#0;n#!!top" expanded="true" />
           </folding>
