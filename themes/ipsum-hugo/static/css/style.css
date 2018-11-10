@@ -461,6 +461,13 @@ i:before {
   min-height: 400px;
 }
 
+.blog_banner_area {
+  background: url(../img/banner/blog.jpg) no-repeat scroll center center;
+  background-size: cover;
+  position: relative;
+  min-height: 400px;
+}
+
 .banner_area:before {
   content: "";
   background: rgba(4, 8, 29, 0.5);
