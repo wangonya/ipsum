@@ -1,4 +1,84 @@
 {{ partial "header.html" . }}
 {{ partial "head.html" . }}
-<h1>contact here</h1>
+<!--================Banner Area =================-->
+<section class="contact_banner_area banner_area">
+    <div class="container">
+        <div class="banner_text_inner">
+            <h4>Contact Us</h4>
+            <h5>Tell us about your story and your project.</h5>
+        </div>
+    </div>
+</section>
+<!--================End Banner Area =================-->
+
+<!--================Contact Us Area =================-->
+<section class="contact_us_area">
+    <div class="container">
+        <div class="contact_details_inner">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="contact_text">
+                        <div class="main_title">
+                            <h2>Contact Us</h2>
+                            <p>There are many ways to get in touch with us. You may drop us a line, give us a call or send an email, choose what suits you the most</p>
+                        </div>
+                        <div class="contact_d_list">
+                            <div class="contact_d_list_item">
+                                <a href="#">0705 516 589</a>
+                                <a href="#">sanayianjoro@gmail.com</a>
+                            </div>
+                            <!--<div class="contact_d_list_item">-->
+                                <!--<p>40 Baria Sreet 133/2 <br /> NewYork City, US</p>-->
+                            <!--</div>-->
+                            <div class="contact_d_list_item">
+                                <p>Open hours: 8.00-18.00 Mon-Fri <br />Sunday: Closed</p>
+                            </div>
+                        </div>
+                        <div class="static_social">
+                            <div class="main_title">
+                                <h2>Follow Us:</h2>
+                            </div>
+                            <ul>
+                                <li >
+                                    <a href="https://www.facebook.com/IpsumMedia/"><i class="fa fa-facebook"></i></a>
+                                </li>
+                                <li >
+                                    <a  href="https://twitter.com/ipsum_media"><i class="fa fa-twitter"></i></a>
+                                </li>
+                                <li >
+                                    <a  href="https://www.linkedin.com/company/ipsum-media/"><i class="fa fa-linkedin"></i></a>
+                                </li>
+                                <li >
+                                    <a  href="https://instagram.com/ipsum_media/"><i class="fa fa-instagram"></i></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="contact_form">
+                        <div class="main_title">
+                            <h2>Send us a message</h2>
+                        </div>
+                        <form class="contact_us_form row" action="contact_process.php" method="post" id="contactForm" novalidate="novalidate">
+                            <div class="form-group col-lg-12">
+                                <input type="text" class="form-control" id="name" name="name" placeholder="Name">
+                            </div>
+                            <div class="form-group col-lg-12">
+                                <input type="email" class="form-control" id="email" name="email" placeholder="Email">
+                            </div>
+                            <div class="form-group col-lg-12">
+                                <textarea class="form-control" name="message" id="message" rows="1" placeholder="Message"></textarea>
+                            </div>
+                            <div class="form-group col-md-12">
+                                <button type="submit" value="submit" class="btn submit_btn2 form-control">Send Message</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--================End Contact Us Area =================-->
 {{ partial "footer.html" . }}

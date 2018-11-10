@@ -447,8 +447,15 @@ i:before {
 /*----------------------------------------------------*/
 /* Banner Area css
 ============================================================================================ */
-.banner_area {
-  background: url(../img/banner/banner-1.jpg) no-repeat scroll center center;
+.contact_banner_area {
+  background: url(../img/banner/bc.jpg) no-repeat scroll center center;
+  background-size: cover;
+  position: relative;
+  min-height: 400px;
+}
+
+.shop_banner_area {
+  background: url(../img/banner/bc.jpg) no-repeat scroll center center;
   background-size: cover;
   position: relative;
   min-height: 400px;
@@ -1497,7 +1504,7 @@ i:before {
 /* Contact Us Area css
 ============================================================================================ */
 .contact_us_area {
-  padding: 110px 0px;
+  padding: 70px 0px;
 }
 
 .mapBox {
@@ -1507,7 +1514,7 @@ i:before {
 }
 
 .contact_details_inner {
-  padding-top: 75px;
+  /*padding-top: 35px;*/
 }
 
 .contact_text .contact_d_list {
