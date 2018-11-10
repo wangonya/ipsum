@@ -199,7 +199,7 @@ i:before {
   left: 0px;
   z-index: 30;
   padding: 0px 75px;
-  border-bottom: 1px solid #626571;
+  /*border-bottom: 1px solid #626571;*/
 }
 
 .main_menu_area .navbar {
@@ -518,7 +518,7 @@ i:before {
   background: url(../img/bg_1.jpg) no-repeat scroll center center;
   background-size: cover;
   position: relative;
-  min-height: 600px;
+  min-height: 550px;
 }
 
 .slider_area:before {
@@ -539,7 +539,7 @@ i:before {
 
 .slider_text_inner h4 {
   color: #fff;
-  font-size: 48px;
+  font-size: 8vmin;
   font-weight: 500;
   font-family: "Poppins", sans-serif;
   padding-bottom: 10px;
@@ -777,7 +777,7 @@ i:before {
 /* Project Area css
 ============================================================================================ */
 .project_area {
-  background: url(../img/project-bg.jpg) no-repeat fixed center center;
+  background: url(../img/discuss.jpeg) no-repeat fixed center center;
   background-size: cover;
   position: relative;
   z-index: 3;
@@ -1055,7 +1055,7 @@ i:before {
 /* Our Service Area css
 ============================================================================================ */
 .service_area {
-  background: url(../img/service-bg.jpg) no-repeat fixed center center;
+  background: url(../img/2.jpg) no-repeat fixed center center;
   background-size: cover;
   position: relative;
   z-index: 2;
@@ -1064,7 +1064,7 @@ i:before {
 
 .service_area:before {
   content: "";
-  background: rgba(4, 8, 29, 0.7);
+  background: rgba(4, 8, 29, 0.8);
   position: absolute;
   left: 0px;
   top: 0px;
