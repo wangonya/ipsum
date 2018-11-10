@@ -455,7 +455,7 @@ i:before {
 }
 
 .shop_banner_area {
-  background: url(../img/banner/bc.jpg) no-repeat scroll center center;
+  background: url(../img/banner/tee.jpeg) no-repeat scroll center center;
   background-size: cover;
   position: relative;
   min-height: 400px;
@@ -463,7 +463,7 @@ i:before {
 
 .banner_area:before {
   content: "";
-  background: rgba(4, 8, 29, 0.7);
+  background: rgba(4, 8, 29, 0.5);
   position: absolute;
   left: 0px;
   top: 0;

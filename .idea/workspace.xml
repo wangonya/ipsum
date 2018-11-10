@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="302d389a-bf51-4ece-9a4e-f65d74166c8f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/themes/ipsum-hugo/layouts/contact/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ipsum-hugo/layouts/contact/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/ipsum-hugo/layouts/partials/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ipsum-hugo/layouts/partials/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ipsum-hugo/layouts/shop/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ipsum-hugo/layouts/shop/shop.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/ipsum-hugo/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ipsum-hugo/static/css/style.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,7 +19,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="5" />
-          <entry key="html" value="20" />
+          <entry key="html" value="22" />
           <entry key="md" value="4" />
           <entry key="svg" value="1" />
           <entry key="txt" value="1" />
@@ -29,7 +28,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="5" />
-          <entry key="HTML" value="20" />
+          <entry key="HTML" value="22" />
           <entry key="Markdown" value="4" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="SVG" value="1" />
@@ -37,15 +36,15 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="98" />
-          <entry key="html" value="1028" />
+          <entry key="css" value="100" />
+          <entry key="html" value="1270" />
           <entry key="md" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="98" />
-          <entry key="HTML" value="1028" />
+          <entry key="CSS" value="100" />
+          <entry key="HTML" value="1270" />
           <entry key="Markdown" value="44" />
         </counts>
       </usages-collector>
@@ -74,20 +73,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/ipsum-hugo/layouts/shop/shop.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="13" selection-end-line="3" selection-end-column="29" />
+            <state relative-caret-position="120">
+              <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/ipsum-hugo/layouts/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="236" selection-start-line="236" selection-end-line="279" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/ipsum-hugo/layouts/contact/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="27" column="66" selection-start-line="27" selection-start-column="66" selection-end-line="27" selection-end-column="66" />
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="11" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/ipsum-hugo/layouts/partials/footer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="20" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -113,8 +130,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/ipsum-hugo/static/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="456" column="5" selection-start-line="456" selection-start-column="5" selection-end-line="456" selection-end-column="5" />
+            <state relative-caret-position="475">
+              <caret line="465" column="32" selection-start-line="465" selection-start-column="32" selection-end-line="465" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -137,6 +154,7 @@
       <find>border-botto</find>
       <find>contact_details_inner</find>
       <find>banner</find>
+      <find>class=&quot;nav-link&quot;</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -157,10 +175,10 @@
         <option value="$PROJECT_DIR$/themes/ipsum-hugo/layouts/index.html" />
         <option value="$PROJECT_DIR$/content/shop/index.md" />
         <option value="$PROJECT_DIR$/content/contact/index.html" />
-        <option value="$PROJECT_DIR$/themes/ipsum-hugo/layouts/shop/shop.html" />
         <option value="$PROJECT_DIR$/themes/ipsum-hugo/layouts/partials/head.html" />
-        <option value="$PROJECT_DIR$/themes/ipsum-hugo/static/css/style.css" />
         <option value="$PROJECT_DIR$/themes/ipsum-hugo/layouts/contact/contact.html" />
+        <option value="$PROJECT_DIR$/themes/ipsum-hugo/static/css/style.css" />
+        <option value="$PROJECT_DIR$/themes/ipsum-hugo/layouts/shop/shop.html" />
       </list>
     </option>
   </component>
@@ -246,6 +264,14 @@
               <item name="ipsum" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
               <item name="ipsum-hugo" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="partials" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ipsum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ipsum" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="ipsum-hugo" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -296,12 +322,12 @@
       <workItem from="1541499799790" duration="5487000" />
       <workItem from="1541512837097" duration="190000" />
       <workItem from="1541525187561" duration="146000" />
-      <workItem from="1541835902189" duration="8265000" />
+      <workItem from="1541835902189" duration="9882000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22917000" />
+    <option name="totallyTimeSpent" value="24534000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -387,27 +413,10 @@
     <entry file="file://$PROJECT_DIR$/themes/ipsum-hugo/layouts/_default/single.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/ipsum-hugo/layouts/partials/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="84" selection-start-line="19" selection-start-column="84" selection-end-line="19" selection-end-column="84" />
-          <folding>
-            <element signature="e#4163#4169#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/ipsum-hugo/layouts/partials/header.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/ipsum-hugo/layouts/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2895">
-          <caret line="193" column="37" selection-start-line="193" selection-start-column="37" selection-end-line="193" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -426,17 +435,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/ipsum-hugo/layouts/shop/shop.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="13" selection-end-line="3" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/contact/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/ipsum-hugo/layouts/partials/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="20" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -447,17 +456,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/ipsum-hugo/static/css/style.css">
+    <entry file="file://$PROJECT_DIR$/themes/ipsum-hugo/layouts/contact/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="456" column="5" selection-start-line="456" selection-start-column="5" selection-end-line="456" selection-end-column="5" />
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="11" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/ipsum-hugo/layouts/contact/contact.html">
+    <entry file="file://$PROJECT_DIR$/themes/ipsum-hugo/static/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="27" column="66" selection-start-line="27" selection-start-column="66" selection-end-line="27" selection-end-column="66" />
+        <state relative-caret-position="475">
+          <caret line="465" column="32" selection-start-line="465" selection-start-column="32" selection-end-line="465" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/ipsum-hugo/layouts/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="236" selection-start-line="236" selection-end-line="279" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/ipsum-hugo/layouts/shop/shop.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
         </state>
       </provider>
     </entry>
